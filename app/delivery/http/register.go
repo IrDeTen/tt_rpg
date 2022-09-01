@@ -1,7 +1,7 @@
 package http
 
 import (
-	"github.com/alexvelfr/go-template/app"
+	"github.com/IrDeTen/ttrpg/app"
 	"github.com/gin-gonic/gin"
 )
 

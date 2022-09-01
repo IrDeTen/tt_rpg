@@ -3,7 +3,7 @@ package usecase
 import (
 	"context"
 
-	"github.com/alexvelfr/go-template/app"
+	"github.com/IrDeTen/ttrpg/app"
 )
 
 // Usecase ...

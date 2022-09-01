@@ -3,7 +3,7 @@ package http
 import (
 	"net/http"
 
-	"github.com/alexvelfr/go-template/app"
+	"github.com/IrDeTen/ttrpg/app"
 	"github.com/gin-gonic/gin"
 )
 
