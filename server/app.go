@@ -45,6 +45,7 @@ func NewApp() *App {
 
 // Run run application
 func (a *App) Run(port string) error {
+	//comment
 	defer a.appRepo.Close()
 	gin.SetMode(gin.ReleaseMode)
 	router := gin.New()
